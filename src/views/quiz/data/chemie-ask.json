@@ -1,0 +1,42 @@
+[
+  {
+    "direction": [
+      1,
+      0
+    ],
+    "questionBefore": "Ordnen Sie dem Element",
+    "questionAfter": "die Protonenanzahl zu!"
+  },
+  {
+    "direction": [
+      1,
+      2
+    ],
+    "questionBefore": "Ordnen Sie dem Element",
+    "questionAfter": "das Symbol zu!"
+  },
+  {
+    "direction": [
+      2,
+      1
+    ],
+    "questionBefore": "Ordnen Sie dem Symbol",
+    "questionAfter": "ein Element zu!"
+  },
+  {
+    "direction": [
+      1,
+      3
+    ],
+    "questionBefore": "Ordnen sie dem Element",
+    "questionAfter": "die passende Gruppe zu!"
+  },
+  {
+    "direction": [
+      2,
+      3
+    ],
+    "questionBefore": "Ordnen sie dem Symbol",
+    "questionAfter": "die passende Gruppe zu!"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "direction": [
+      0,
+      1
+    ],
+    "questionBefore": "Übersetzen Sie",
+    "questionAfter": "in das Lateinische!"
+  },
+  {
+    "direction": [
+      0,
+      2
+    ],
+    "questionBefore": "Ordnen Sie den Begriff",
+    "questionAfter": "einer Region zu!"
+  },
+  {
+    "direction": [
+      1,
+      0
+    ],
+    "questionBefore": "Übersetzen Sie",
+    "questionAfter": "in das Deutsche!"
+  },
+  {
+    "direction": [
+      1,
+      2
+    ],
+    "questionBefore": "Ordnen sie den Begriff",
+    "questionAfter": "einer Region zu!"
+  }
+]

@@ -1,0 +1,1418 @@
+[
+  [
+    "Allgemein",
+    "Général"
+  ],
+  [
+    "ja",
+    "oui"
+  ],
+  [
+    "nein",
+    "non"
+  ],
+  [
+    "vielleicht",
+    "peut-être"
+  ],
+  [
+    "bitte",
+    "s’il te plaît / s’il vous plaît"
+  ],
+  [
+    "danke",
+    "merci"
+  ],
+  [
+    "Entschuldigung",
+    "pardon"
+  ],
+  [
+    "alles klar",
+    "d‘accord"
+  ],
+  [
+    "Ich verstehe (nicht)",
+    "Je (ne) comprends (pas)"
+  ],
+  [
+    "Sprechen Sie / Sprichst Du Deutsch?",
+    "Parlez-vous / Parles-tu allemand ?"
+  ],
+  [
+    "Ich spreche kein Deutsch",
+    "Je ne parle pas allemand"
+  ],
+  [
+    "[zu] Hilfe!",
+    "Au secours!"
+  ],
+  [
+    "Ein bisschen langsamer bitte",
+    "Un peu plus lentement s’il vous plaît"
+  ],
+  [
+    "Gesundheit!",
+    "À vos souhaits ! À tes souhaits !"
+  ],
+  [
+    "Prost!",
+    "Santé!"
+  ],
+  [
+    "wo",
+    "où"
+  ],
+  [
+    "wann",
+    "quand"
+  ],
+  [
+    "wer",
+    "qui"
+  ],
+  [
+    "warum",
+    "pourquoi"
+  ],
+  [
+    "Vorstellungen",
+    "Introductions"
+  ],
+  [
+    "Vorname",
+    "prénom"
+  ],
+  [
+    "Name",
+    "nom"
+  ],
+  [
+    "Wie heißen Sie? Wie heißt du?",
+    "Comment vous appelez-vous ? Comment tu t’appelles ?"
+  ],
+  [
+    "Ich heiße…",
+    "Je m’appelle…"
+  ],
+  [
+    "Ich bin…",
+    "Je suis…"
+  ],
+  [
+    "Es freut mich, Sie / Dich kennen zu lernen.",
+    "Heureux de faire votre / te connaissance. / enchanté"
+  ],
+  [
+    "Ich bin X Jahre alt",
+    "J’ai X ans"
+  ],
+  [
+    "Ich komme aus…",
+    "Je viens de …"
+  ],
+  [
+    "Wie alt sind Sie / bist Du?",
+    "Quel âge avez-vous / as-tu ? / Tu as quel âge ?"
+  ],
+  [
+    "Wo arbeiten Sie / arbeitest Du?",
+    "Où travaillez-vous / travailles-tu ? / Tu travailles où ?"
+  ],
+  [
+    "Wo kommen Sie her? Wo kommst Du her?",
+    "D’où venez-vous ? D’où viens-tu ? Tu viens d’où?"
+  ],
+  [
+    "Was bringt Sie / Dich hierher?",
+    "Qu’est-ce qui vous amène / t’amène ici ?"
+  ],
+  [
+    "Wie war Ihre Reise?",
+    "Comment était votre voyage ? / Comment s’est passé votre voyage ?"
+  ],
+  [
+    "Haben Sie / Hast Du eine gute Zeit?",
+    "Passez-vous / Passes-tu du bon temps ? / Tu passes du bon temps ?"
+  ],
+  [
+    "Was halten Sie / hältst Du von …?",
+    "Que pensez-vous / penses-tu de … ? / Tu penses quoi de ?"
+  ],
+  [
+    "Meine Freunde nennen mich …",
+    "Mes amis m’appellent …"
+  ],
+  [
+    "Kennen wir uns?",
+    "Nous sommes nous déjà rencontrés ?"
+  ],
+  [
+    "Dies ist (Name)",
+    "C’est (nom)"
+  ],
+  [
+    "Wie war Ihr/Dein Wochenende?",
+    "Comment était votre/ton week-end ? / Comment s’est passé ton week-end ?"
+  ],
+  [
+    "Begrüßung / Verabschiedung",
+    "Salutation / Adieux"
+  ],
+  [
+    "Hallo",
+    "Salut / Bonjour"
+  ],
+  [
+    "Guten Morgen",
+    "Bonjour"
+  ],
+  [
+    "Guten Tag",
+    "Bonjour"
+  ],
+  [
+    "Guten Abend",
+    "Bonsoir"
+  ],
+  [
+    "Gute Nacht",
+    "Bonne nuit"
+  ],
+  [
+    "Tschüss",
+    "Salut"
+  ],
+  [
+    "Auf Wiedersehen",
+    "Au revoir / A bientôt"
+  ],
+  [
+    "Wie geht es Ihnen? Wie geht’s?",
+    "Comment allez-vous / Ça va ?"
+  ],
+  [
+    "gut",
+    "bien"
+  ],
+  [
+    "schlecht",
+    "mal"
+  ],
+  [
+    "Hey / Hallo",
+    "Salut / coucou"
+  ],
+  [
+    "Was geht?",
+    "Quoi de neuf ?"
+  ],
+  [
+    "Schön Sie / Dich zu sehen.",
+    "C’est bon de vous / te voir."
+  ],
+  [
+    "Nett Sie / Dich kennenzulernen",
+    "Ravi de vous / te rencontrer."
+  ],
+  [
+    "Lange nicht gesehen",
+    "Ça faisait longtemps"
+  ],
+  [
+    "Wie steht’s?",
+    "Comment ça va ?"
+  ],
+  [
+    "Reise",
+    "Voyage"
+  ],
+  [
+    "Ich möchte gerne…",
+    "Je voudrais…"
+  ],
+  [
+    "Wo sind die Toiletten?",
+    "Où sont les toilettes ?"
+  ],
+  [
+    "Wie spät ist es?",
+    "Quelle heure est-il ? / Il est quelle heure ?"
+  ],
+  [
+    "Ich übernachte bei…",
+    "Je séjourne à …"
+  ],
+  [
+    "Ich besuche die Familie",
+    "Je visite la famille"
+  ],
+  [
+    "Ich bin hier für X Tage",
+    "Je suis ici pour X jours"
+  ],
+  [
+    "Haben Sie eine Karte?",
+    "Avez-vous une carte ?"
+  ],
+  [
+    "der Reisepass",
+    "le passeport"
+  ],
+  [
+    "der Flughafen",
+    "l‘aéroport"
+  ],
+  [
+    "der Hafen",
+    "le port"
+  ],
+  [
+    "die Sicherheit",
+    "la sécurité"
+  ],
+  [
+    "das Flugzeug",
+    "l‘avion"
+  ],
+  [
+    "der Zug",
+    "le train"
+  ],
+  [
+    "das Schiff",
+    "le bateau"
+  ],
+  [
+    "das Fahrrad",
+    "le vélo"
+  ],
+  [
+    "das Motorrad",
+    "la moto"
+  ],
+  [
+    "der Bus",
+    "le bus"
+  ],
+  [
+    "fliegen",
+    "voler"
+  ],
+  [
+    "fahren",
+    "conduire"
+  ],
+  [
+    "segeln",
+    "naviguer"
+  ],
+  [
+    "fahren",
+    "rouler"
+  ],
+  [
+    "Wegbeschreibungen",
+    "Itinéraires"
+  ],
+  [
+    "links",
+    "gauche"
+  ],
+  [
+    "rechts",
+    "droite"
+  ],
+  [
+    "hier",
+    "ici"
+  ],
+  [
+    "dort",
+    "là/là-bas"
+  ],
+  [
+    "zurück",
+    "arrière"
+  ],
+  [
+    "hoch",
+    "en haut"
+  ],
+  [
+    "runter",
+    "en bas"
+  ],
+  [
+    "geradeaus",
+    "tout droit"
+  ],
+  [
+    "Stelle / Ort",
+    " l‘endroit / le lieu"
+  ],
+  [
+    "Wo ist…?",
+    "Où est… ?"
+  ],
+  [
+    "Wie komme ich nach…?",
+    "Comment est-ce que je peux me rendre à … ?"
+  ],
+  [
+    "Ich suche … Straße.",
+    "Je cherche la rue …."
+  ],
+  [
+    "um die Ecke",
+    "au coin de la rue"
+  ],
+  [
+    "weit",
+    "loin"
+  ],
+  [
+    "in der Nähe von",
+    "du côté de"
+  ],
+  [
+    "gegenüber von",
+    "en face de"
+  ],
+  [
+    "Folgen Sie mir",
+    "Suivez-moi"
+  ],
+  [
+    "neben X",
+    "près de X"
+  ],
+  [
+    "vorbeigehen",
+    "dépasser"
+  ],
+  [
+    "zwischen",
+    "entre"
+  ],
+  [
+    "Zeiten / Daten",
+    "Temps / dates"
+  ],
+  [
+    "jetzt",
+    "maintenant"
+  ],
+  [
+    "heute",
+    "aujourd’hui"
+  ],
+  [
+    "morgen",
+    "demain"
+  ],
+  [
+    "gestern",
+    "hier"
+  ],
+  [
+    "die Sekunde",
+    "la seconde"
+  ],
+  [
+    "die Minute",
+    "la minute"
+  ],
+  [
+    "die Stunde",
+    " l‘heure"
+  ],
+  [
+    "der Tag",
+    "le jour"
+  ],
+  [
+    "die Woche",
+    "la semaine"
+  ],
+  [
+    "der Monat",
+    "le mois"
+  ],
+  [
+    "das Jahr",
+    " l‘année"
+  ],
+  [
+    "früh",
+    "en avance"
+  ],
+  [
+    "spät",
+    "en retard"
+  ],
+  [
+    "der Montag",
+    "le lundi"
+  ],
+  [
+    "der Dienstag",
+    "le mardi"
+  ],
+  [
+    "der Mittwoch",
+    "le mercredi"
+  ],
+  [
+    "der Donnerstag",
+    "le jeudi"
+  ],
+  [
+    "der Freitag",
+    "le vendredi"
+  ],
+  [
+    "der Samstag",
+    "le samedi"
+  ],
+  [
+    "der Sonntag",
+    "le dimanche"
+  ],
+  [
+    "der Frühling",
+    "le printemps"
+  ],
+  [
+    "der Sommer",
+    " l‘été"
+  ],
+  [
+    "der Herbst",
+    " l‘automne"
+  ],
+  [
+    "der Winter",
+    " l‘hiver"
+  ],
+  [
+    "Januar",
+    "janvier"
+  ],
+  [
+    "Februar",
+    "février"
+  ],
+  [
+    "März",
+    "mars"
+  ],
+  [
+    "April",
+    "avril"
+  ],
+  [
+    "Mai",
+    "mai"
+  ],
+  [
+    "Juni",
+    "juin"
+  ],
+  [
+    "Juli",
+    "juillet"
+  ],
+  [
+    "August",
+    "août"
+  ],
+  [
+    "September",
+    "septembre"
+  ],
+  [
+    "Oktober",
+    "octobre"
+  ],
+  [
+    "November",
+    "novembre"
+  ],
+  [
+    "Dezember",
+    "décembre"
+  ],
+  [
+    "Uhrzeit",
+    "le temps"
+  ],
+  [
+    "Wie spät ist es?",
+    "Il est quelle heure ?"
+  ],
+  [
+    "Jahrzehnt",
+    "la décennie"
+  ],
+  [
+    "Jahrhundert",
+    "le siècle"
+  ],
+  [
+    "Orte",
+    "Emplacements"
+  ],
+  [
+    "das Lebensmittelgeschäft",
+    " l‘épicerie"
+  ],
+  [
+    "das Krankenhaus",
+    "l‘hôpital"
+  ],
+  [
+    "die Bank",
+    "la banque"
+  ],
+  [
+    "das Hotel",
+    " l‘hôtel"
+  ],
+  [
+    "die Bar",
+    "le bar"
+  ],
+  [
+    "die Apotheke",
+    "la pharmacie"
+  ],
+  [
+    "der Strand",
+    "la plage"
+  ],
+  [
+    "das Restaurant",
+    "le restaurant"
+  ],
+  [
+    "der Flughafen",
+    "l‘aéroport"
+  ],
+  [
+    "die Bäckerei",
+    "la boulangerie / pâtisserie"
+  ],
+  [
+    "die Bushaltestelle",
+    " l‘arrêt de bus"
+  ],
+  [
+    "die Kirche",
+    "l‘église"
+  ],
+  [
+    "das Kino",
+    "le cinéma"
+  ],
+  [
+    "die Tankstelle",
+    "la station-essence"
+  ],
+  [
+    "das Museum",
+    "le musée"
+  ],
+  [
+    "das Polizeirevier",
+    "le commissariat de police"
+  ],
+  [
+    "die Schule",
+    "l‘école"
+  ],
+  [
+    "der Platz",
+    "la place"
+  ],
+  [
+    "der Supermarkt",
+    "le supermarché"
+  ],
+  [
+    "der Zoo",
+    "le zoo"
+  ],
+  [
+    "Einkaufen",
+    "Courses"
+  ],
+  [
+    "teuer",
+    "cher"
+  ],
+  [
+    "billig",
+    "bon marché"
+  ],
+  [
+    "kostenlos",
+    "gratuit"
+  ],
+  [
+    "Wie viel kostet das?",
+    "C’est combien? / Combien ça coûte?"
+  ],
+  [
+    "der / die Kassierer(in)",
+    "le / la caissier(-ière)"
+  ],
+  [
+    "der Trolley / der Warenkorb",
+    "le caddie / le panier"
+  ],
+  [
+    "die Tasche",
+    "le sac"
+  ],
+  [
+    "die Garantie",
+    "la garantie"
+  ],
+  [
+    "das Rückgaberecht",
+    "la politique de remboursement"
+  ],
+  [
+    "die Kundenkarte",
+    "la carte de fidélité"
+  ],
+  [
+    "die Quittung",
+    "la reçu"
+  ],
+  [
+    "der Rabatt",
+    "le rabais"
+  ],
+  [
+    "der Gang",
+    "le coloir"
+  ],
+  [
+    "das Regal",
+    "l‘étagère"
+  ],
+  [
+    "die Umkleidekabine",
+    "la cabine d’essayage"
+  ],
+  [
+    "die Lieferung",
+    "la livraison"
+  ],
+  [
+    "der Schlussverkauf",
+    "les soldes"
+  ],
+  [
+    "Entschuldigen Sie, arbeiten Sie hier?",
+    "Excusez-moi, vous travaillez ici ?"
+  ],
+  [
+    "Im Restaurant",
+    "Dans le restaurant"
+  ],
+  [
+    "Einen Tisch für X Personen, bitte.",
+    "Une table pour X, s’il vous plaît."
+  ],
+  [
+    "Ich würde gerne bestellen.",
+    "Je voudrais commander."
+  ],
+  [
+    "Kann ich bitte die Karte haben?",
+    "Je voudrais regarder la carte, s’il vous plaît."
+  ],
+  [
+    "Die Rechnung bitte.",
+    "L’addition s’il vous plaît."
+  ],
+  [
+    "das Frühstück",
+    "le petit-déjeuner"
+  ],
+  [
+    "das Mittagsessen",
+    "le déjeuner"
+  ],
+  [
+    "das Abendessen",
+    "le dîner"
+  ],
+  [
+    "das Besteck",
+    "les couverts"
+  ],
+  [
+    "die Serviette",
+    "la serviette"
+  ],
+  [
+    "das Brunch",
+    "le brunch"
+  ],
+  [
+    "der Hauptgang",
+    "le plat principal"
+  ],
+  [
+    "das Dessert",
+    "le dessert"
+  ],
+  [
+    "das Trinkgeld",
+    "le pourboire"
+  ],
+  [
+    "die Beilage",
+    "le plat d’accompagnement"
+  ],
+  [
+    "die Getränke",
+    "les boissons"
+  ],
+  [
+    "All you can eat",
+    "un buffet à volonté"
+  ],
+  [
+    "Happy Hour",
+    "une happy hour"
+  ],
+  [
+    "der Appetizer",
+    "l‘apéritif"
+  ],
+  [
+    "Im Hotel",
+    "Dans l’hôtel"
+  ],
+  [
+    "das Zimmer",
+    "la pièce"
+  ],
+  [
+    "der Zimmerservice",
+    "le service de chambre / d’étage"
+  ],
+  [
+    "das Badezimmer",
+    "la salle de bains"
+  ],
+  [
+    "das Bett",
+    "le lit"
+  ],
+  [
+    "das Schlafzimmer",
+    "la chambre"
+  ],
+  [
+    "die Etage",
+    "l‘étage"
+  ],
+  [
+    "der Aufzug",
+    "l‘ascenseur"
+  ],
+  [
+    "die Rezeption",
+    "la réception"
+  ],
+  [
+    "das Handtuch",
+    "la serviette (de bain)"
+  ],
+  [
+    "die Nebenräume",
+    "les (pièce) annexes"
+  ],
+  [
+    "das Gepäck",
+    "les bagages"
+  ],
+  [
+    "der Page",
+    "le valet"
+  ],
+  [
+    "die Kochnische",
+    "le coin cuisine"
+  ],
+  [
+    "die Bettwäsche",
+    "les draps"
+  ],
+  [
+    "der Hotelpage",
+    "le groom / le porteur / le garçon d’étage"
+  ],
+  [
+    "die Lobby",
+    "le lobby"
+  ],
+  [
+    "die Anzahlung",
+    "l’acompte"
+  ],
+  [
+    "einchecken",
+    "s’enregistrer"
+  ],
+  [
+    "auschecken",
+    "partir"
+  ],
+  [
+    "gratis",
+    "gratuit"
+  ],
+  [
+    "Zahlen",
+    "Nombres"
+  ],
+  [
+    "Eins",
+    "Un"
+  ],
+  [
+    "Zwei",
+    "Deux"
+  ],
+  [
+    "Drei",
+    "Trois"
+  ],
+  [
+    "Vier",
+    "Quatre"
+  ],
+  [
+    "Fünf",
+    "Cinq"
+  ],
+  [
+    "Sechs",
+    "Six"
+  ],
+  [
+    "Sieben",
+    "Sept"
+  ],
+  [
+    "Acht",
+    "Huit"
+  ],
+  [
+    "Neun",
+    "Neuf"
+  ],
+  [
+    "Zehn",
+    "Dix"
+  ],
+  [
+    "Elf",
+    "Onze"
+  ],
+  [
+    "Zwölf",
+    "Douze"
+  ],
+  [
+    "Dreizehn",
+    "Treize"
+  ],
+  [
+    "Vierzehn",
+    "Quatorze"
+  ],
+  [
+    "Fünfzehn",
+    "Quinze"
+  ],
+  [
+    "Sechszehn",
+    "Seize"
+  ],
+  [
+    "Siebzehn",
+    "Dix-sept"
+  ],
+  [
+    "Achtzehn",
+    "Dix-huit"
+  ],
+  [
+    "Neunzehn",
+    "Dix-neuf"
+  ],
+  [
+    "Zwanzig",
+    "Vingt"
+  ],
+  [
+    "Dreißig",
+    "Trente"
+  ],
+  [
+    "Vierzig",
+    "Quarante"
+  ],
+  [
+    "Fünfzig",
+    "Cinquante"
+  ],
+  [
+    "Sechzig",
+    "Soixante"
+  ],
+  [
+    "Siebzig",
+    "Soixante-dix"
+  ],
+  [
+    "Achtzig",
+    "Quatre-vingt"
+  ],
+  [
+    "Neunzig",
+    "Quatre-vingt-dix"
+  ],
+  [
+    "Hundert",
+    "Cent"
+  ],
+  [
+    "Zweihundert",
+    "Deux cent"
+  ],
+  [
+    "Tausend",
+    "Mille"
+  ],
+  [
+    "Zweitausend",
+    "Deux mille"
+  ],
+  [
+    "Million",
+    "Million"
+  ],
+  [
+    "Milliarde",
+    "Milliard"
+  ],
+  [
+    "erste(r)",
+    "premier/première"
+  ],
+  [
+    "zweite(r)",
+    "seconde"
+  ],
+  [
+    "dritte(r)",
+    "troisième"
+  ],
+  [
+    "vierte(r)",
+    "quatrième"
+  ],
+  [
+    "fünfte(r)",
+    "cinquième"
+  ],
+  [
+    "sechste(r)",
+    "sixième"
+  ],
+  [
+    "siebte(r)",
+    "septième"
+  ],
+  [
+    "Personalpronomen",
+    "Pronom personnel"
+  ],
+  [
+    "ich",
+    "je"
+  ],
+  [
+    "du",
+    "tu"
+  ],
+  [
+    "er",
+    "il"
+  ],
+  [
+    "sie",
+    "elle"
+  ],
+  [
+    "es",
+    "il"
+  ],
+  [
+    "wir",
+    "nous / on"
+  ],
+  [
+    "ihr",
+    "vous"
+  ],
+  [
+    "sie (Sie)",
+    "ils / elles (vous)"
+  ],
+  [
+    "Wichtige Wörter",
+    "Mots importants"
+  ],
+  [
+    "das Ding",
+    "la chose"
+  ],
+  [
+    "sicher",
+    "sûr"
+  ],
+  [
+    "der / die",
+    "le / la"
+  ],
+  [
+    "und",
+    "et"
+  ],
+  [
+    "oder",
+    "ou"
+  ],
+  [
+    "weil",
+    "parce que"
+  ],
+  [
+    "das Leben",
+    "la vie"
+  ],
+  [
+    "die Regierung",
+    "le gouvernement"
+  ],
+  [
+    "das Kind",
+    "l‘enfant"
+  ],
+  [
+    "die Firma",
+    "l‘entreprise"
+  ],
+  [
+    "die Gruppe",
+    "le groupe"
+  ],
+  [
+    "das Alter",
+    "l‘âge"
+  ],
+  [
+    "der Mond",
+    "la lune"
+  ],
+  [
+    "die Sonne",
+    "le soleil"
+  ],
+  [
+    "das Auto",
+    "la voiture"
+  ],
+  [
+    "das Buch",
+    "le livre"
+  ],
+  [
+    "die Welt",
+    "le monde"
+  ],
+  [
+    "die Familie",
+    "la famille"
+  ],
+  [
+    "der Freund",
+    "l‘ami / l‘amie"
+  ],
+  [
+    "das Gesetz",
+    "la loi"
+  ],
+  [
+    "Mensch / Körper",
+    "Humain / Corps"
+  ],
+  [
+    "der Mann",
+    "l‘homme"
+  ],
+  [
+    "die Frau",
+    "la femme"
+  ],
+  [
+    "der Junge",
+    "le garçon"
+  ],
+  [
+    "das Mädchen",
+    "la fille"
+  ],
+  [
+    "der Arm",
+    "le bras"
+  ],
+  [
+    "die Hand",
+    "la main"
+  ],
+  [
+    "das Bein",
+    "le jambe"
+  ],
+  [
+    "der Fuß",
+    "la pied"
+  ],
+  [
+    "das Auge",
+    "l‘œil"
+  ],
+  [
+    "der Kopf",
+    "la tête"
+  ],
+  [
+    "das Gehirn",
+    "le cerveau"
+  ],
+  [
+    "die Nase",
+    "le nez"
+  ],
+  [
+    "das Ohr",
+    "l‘oreille"
+  ],
+  [
+    "das Haar",
+    "les cheveux"
+  ],
+  [
+    "die Augenbraue",
+    "le sourcil"
+  ],
+  [
+    "die Lippen",
+    "les lèvres"
+  ],
+  [
+    "der Finger",
+    "le doigt"
+  ],
+  [
+    "das Skelett",
+    "le squelette"
+  ],
+  [
+    "der Knochen",
+    "l‘os"
+  ],
+  [
+    "die Haut",
+    "la peau"
+  ],
+  [
+    "Wichtige Verben",
+    "Verbes importants"
+  ],
+  [
+    "sein",
+    "être"
+  ],
+  [
+    "bekommen",
+    "obtenir"
+  ],
+  [
+    "geben",
+    "donner"
+  ],
+  [
+    "leben",
+    "vivre"
+  ],
+  [
+    "machen / tun",
+    "faire"
+  ],
+  [
+    "gehen",
+    "marcher / aller"
+  ],
+  [
+    "benutzen",
+    "utiliser"
+  ],
+  [
+    "essen",
+    "manger"
+  ],
+  [
+    "denken",
+    "penser"
+  ],
+  [
+    "kommen",
+    "venir"
+  ],
+  [
+    "haben",
+    "avoir"
+  ],
+  [
+    "sagen",
+    "dire"
+  ],
+  [
+    "wissen",
+    "savoir"
+  ],
+  [
+    "sehen",
+    "voir"
+  ],
+  [
+    "wollen",
+    "vouloir"
+  ],
+  [
+    "finden",
+    "trouver"
+  ],
+  [
+    "erzählen",
+    "raconter"
+  ],
+  [
+    "fragen",
+    "demander"
+  ],
+  [
+    "versuchen",
+    "essayer"
+  ],
+  [
+    "anrufen",
+    "appeler"
+  ],
+  [
+    "Wichtige Adjektive",
+    "Adjectifs importants"
+  ],
+  [
+    "schön",
+    "beau / belle"
+  ],
+  [
+    "hässlich",
+    "laid / laide"
+  ],
+  [
+    "hoch",
+    "grand / grande"
+  ],
+  [
+    "klein",
+    "petit / petite"
+  ],
+  [
+    "groß",
+    "grand / grande"
+  ],
+  [
+    "neu",
+    "nouveau  / nouvelle"
+  ],
+  [
+    "lang",
+    "long / longue"
+  ],
+  [
+    "großartig",
+    "génial / géniale"
+  ],
+  [
+    "alt",
+    "vieux / vieille"
+  ],
+  [
+    "jung",
+    "jeune"
+  ],
+  [
+    "anders",
+    "différent / différente"
+  ],
+  [
+    "wichtig",
+    "important / importante"
+  ],
+  [
+    "schlecht",
+    "mauvais / mauvaise"
+  ],
+  [
+    "lustig",
+    "drôle"
+  ],
+  [
+    "ernst",
+    "sérieux / sérieuse"
+  ],
+  [
+    "stark",
+    "fort / forte"
+  ],
+  [
+    "einfach",
+    "facile"
+  ],
+  [
+    "schwierig",
+    "difficile"
+  ],
+  [
+    "arm",
+    "pauvre"
+  ],
+  [
+    "reich",
+    "riche"
+  ]
+]

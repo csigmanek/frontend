@@ -1,0 +1,582 @@
+[
+  [
+    "Schädel",
+    "Cranium",
+    ""
+  ],
+  [
+    "Hirnschädel",
+    "Neurocranium",
+    ""
+  ],
+  [
+    "Hinterhauptbein",
+    "Os occipitale",
+    "Hirnschädel"
+  ],
+  [
+    "Scheitelbein",
+    "Os parietale",
+    "Hirnschädel"
+  ],
+  [
+    "Schläfenbein",
+    "Os temporale",
+    "Hirnschädel"
+  ],
+  [
+    "Keilbein",
+    "Os sphenoidale",
+    "Hirnschädel"
+  ],
+  [
+    "Stirnbein",
+    "Os frontale",
+    "Hirnschädel"
+  ],
+  [
+    "Siebbein",
+    "Os ethmoidale",
+    "Hirnschädel"
+  ],
+  [
+    "Gesichtsschädel",
+    "Viscerocranium",
+    ""
+  ],
+  [
+    "Jochbein",
+    "Os zygomaticum",
+    "Gesichtsschädel"
+  ],
+  [
+    "Oberkiefer",
+    "Maxilla",
+    "Gesichtsschädel"
+  ],
+  [
+    "Unterkiefer",
+    "Mandibula",
+    "Gesichtsschädel"
+  ],
+  [
+    "Nasenbein",
+    "Os nasale",
+    "Gesichtsschädel"
+  ],
+  [
+    "Tränenbein",
+    "Os lacrimale",
+    "Gesichtsschädel"
+  ],
+  [
+    "Gaumenbein",
+    "Os palatinum",
+    "Gesichtsschädel"
+  ],
+  [
+    "Zungenbein",
+    "Os hyoideum",
+    "Gesichtsschädel"
+  ],
+  [
+    "Pflugscharbein",
+    "Vomer",
+    "Gesichtsschädel"
+  ],
+  [
+    "Gehörknöchelchen",
+    "Malleus, Incus, Stapes",
+    "Gesichtsschädel"
+  ],
+  [
+    "Wirbel",
+    "Columna vertebralis",
+    "Rumpf und Hals"
+  ],
+  [
+    "Halswirbel",
+    "Vertebrae cervicales",
+    "Rumpf und Hals"
+  ],
+  [
+    "Erster Halswirbel",
+    "Atlas",
+    "Rumpf und Hals"
+  ],
+  [
+    "Zweiter Halswirbel",
+    "Axis",
+    "Rumpf und Hals"
+  ],
+  [
+    "Siebter Halswirbel",
+    "Vertebra prominens",
+    "Rumpf und Hals"
+  ],
+  [
+    "Brustwirbel",
+    "Vertebrae thoracicae",
+    "Rumpf und Hals"
+  ],
+  [
+    "Lendenwirbel",
+    "Vertebrae lumbales",
+    "Rumpf und Hals"
+  ],
+  [
+    "Kreuzbein",
+    "Os sacrum",
+    "Rumpf und Hals"
+  ],
+  [
+    "Steißbein",
+    "Os coccygis",
+    "Rumpf und Hals"
+  ],
+  [
+    "Brustkorb",
+    "Thorax",
+    "Rumpf und Hals"
+  ],
+  [
+    "Rippen",
+    "Costae",
+    "Rumpf und Hals"
+  ],
+  [
+    "Brustbein",
+    "Sternum",
+    "Rumpf und Hals"
+  ],
+  [
+    "Schultergürtel",
+    "Cingulum membri superioris",
+    "Arm und Schulter"
+  ],
+  [
+    "Schlüsselbein",
+    "Clavicula",
+    "Arm und Schulter"
+  ],
+  [
+    "Schulterblatt",
+    "Scapula",
+    "Arm und Schulter"
+  ],
+  [
+    "Arm",
+    "Membrum superius",
+    "Arm und Schulter"
+  ],
+  [
+    "Oberarmknochen",
+    "Humerus",
+    "Arm und Schulter"
+  ],
+  [
+    "Unterarmknochen",
+    "Ossa antebrachii",
+    "Arm und Schulter"
+  ],
+  [
+    "Elle",
+    "Ulna",
+    "Arm und Schulter"
+  ],
+  [
+    "Speiche",
+    "Radius",
+    "Arm und Schulter"
+  ],
+  [
+    "Hand",
+    "Manus",
+    ""
+  ],
+  [
+    "Handwurzel",
+    "Carpus",
+    "Hand"
+  ],
+  [
+    "",
+    "Os scaphoideum",
+    "Hand"
+  ],
+  [
+    "Mondbein",
+    "Os lunatum",
+    "Hand"
+  ],
+  [
+    "Dreiecksbein",
+    "Os triquetrum",
+    "Hand"
+  ],
+  [
+    "Erbsenbein",
+    "Os pisiforme",
+    "Hand"
+  ],
+  [
+    "großes Vieleckbein",
+    "Os trapezium",
+    "Hand"
+  ],
+  [
+    "kleines Vieleckbein",
+    "Os trapezoideum",
+    "Hand"
+  ],
+  [
+    "Kopfbein",
+    "Os capitatum",
+    "Hand"
+  ],
+  [
+    "Hakenbein",
+    "Os hamatum",
+    "Hand"
+  ],
+  [
+    "",
+    "Ossa metacarpi",
+    "Hand"
+  ],
+  [
+    "Hüfte",
+    "Coxa",
+    ""
+  ],
+  [
+    "Hüftbein",
+    "Os coxae",
+    "Bein und Hüfte"
+  ],
+  [
+    "Darmbein",
+    "Os ilium",
+    "Bein und Hüfte"
+  ],
+  [
+    "Schambein",
+    "Os pubis",
+    "Bein und Hüfte"
+  ],
+  [
+    "Sitzbein",
+    "Os ischii",
+    "Bein und Hüfte"
+  ],
+  [
+    "Oberschenkelknochen",
+    "Os femoris",
+    "Bein und Hüfte"
+  ],
+  [
+    "Kniescheibe",
+    "Patella",
+    "Bein und Hüfte"
+  ],
+  [
+    "Unterschenkelknochen",
+    "Ossa cruris",
+    "Bein und Hüfte"
+  ],
+  [
+    "Schienbein",
+    "Tibia",
+    "Bein und Hüfte"
+  ],
+  [
+    "Wadenbein",
+    "Fibula",
+    "Bein und Hüfte"
+  ],
+  [
+    "Fuß",
+    "Pes",
+    ""
+  ],
+  [
+    "Fußwurzel",
+    "Tarsus",
+    "Fuß"
+  ],
+  [
+    "Fußwurzelknochen",
+    "Ossa tarsi",
+    "Fuß"
+  ],
+  [
+    "Sprungbein",
+    "Talus",
+    "Fuß"
+  ],
+  [
+    "Fersenbein",
+    "Calcaneus",
+    "Fuß"
+  ],
+  [
+    "",
+    "Os naviculare",
+    "Fuß"
+  ],
+  [
+    "Keilbeine",
+    "Os cuneiforme mediale, intermedium et laterale",
+    "Fuß"
+  ],
+  [
+    "Würfelbein",
+    "Os cuboideum",
+    "Fuß"
+  ],
+  [
+    "Mittelfußknochen",
+    "Ossa metatarsi",
+    "Fuß"
+  ],
+  [
+    "Kahnbein",
+    "",
+    "Hand und Fuß"
+  ],
+  [
+    "Sesambeine",
+    "Ossa sesamoidea",
+    "Hand und Fuß"
+  ],
+  [
+    "",
+    "Phalanx proximalis",
+    "Hand und Fuß"
+  ],
+  [
+    "",
+    "Phalanx media",
+    "Hand und Fuß"
+  ],
+  [
+    "",
+    "Phalanx distalis",
+    "Hand und Fuß"
+  ],
+  [
+    "",
+    "Nervus fibularis superficialis",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus fibularis profundus",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus tibialis",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus saphenus",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus peroneus communis",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus obturatorius",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus femoralis",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus pudendus",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus ischiadicus",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Rami musculares nervus femoralis",
+    "Bein und Hüfte"
+  ],
+  [
+    "",
+    "Nervus medianus",
+    "Arm und Schulter"
+  ],
+  [
+    "",
+    "Nervus radialis",
+    "Arm und Schulter"
+  ],
+  [
+    "",
+    "Nervus musculocutaneus",
+    "Arm und Schulter"
+  ],
+  [
+    "",
+    "Plexus brachialis",
+    "Rumpf und Hals"
+  ],
+  [
+    "",
+    "Nervus iliohypogastricus",
+    "Rumpf und Hals"
+  ],
+  [
+    "",
+    "Plexus sacralis",
+    "Rumpf und Hals"
+  ],
+  [
+    "",
+    "Plexus lumbalis",
+    "Rumpf und Hals"
+  ],
+  [
+    "",
+    "Nervus subcostalis",
+    "Rumpf und Hals"
+  ],
+  [
+    "",
+    "Nervus intercostalis",
+    "Rumpf und Hals"
+  ],
+  [
+    "Zwerchfell",
+    "Diaphragma",
+    ""
+  ],
+  [
+    "Schilddrüse",
+    "Glandula thyroidea",
+    ""
+  ],
+  [
+    "Niere",
+    "Ren",
+    ""
+  ],
+  [
+    "Muskel",
+    "Musculus",
+    ""
+  ],
+  [
+    "Milz",
+    "Lien",
+    ""
+  ],
+  [
+    "Magen",
+    "Ventriculus",
+    ""
+  ],
+  [
+    "Lunge",
+    "Pulmo",
+    ""
+  ],
+  [
+    "Leber",
+    "Iecur",
+    ""
+  ],
+  [
+    "Herz",
+    "Cor",
+    ""
+  ],
+  [
+    "Haut",
+    "Derma",
+    ""
+  ],
+  [
+    "Gallenblase",
+    "Vesica fellea",
+    ""
+  ],
+  [
+    "Darm",
+    "Intestinum",
+    ""
+  ],
+  [
+    "Blut",
+    "Sanguis",
+    ""
+  ],
+  [
+    "Bauchspeicheldrüse",
+    "Pankreas",
+    ""
+  ],
+  [
+    "Auge",
+    "Oculus",
+    "Gesichtsschädel"
+  ],
+  [
+    "Sehnerv",
+    "Nervus opticus",
+    "Gesichtsschädel"
+  ],
+  [
+    "Netzhaut",
+    "Retina",
+    "Gesichtsschädel"
+  ],
+  [
+    "Glaskörper",
+    "Corpus vitreum",
+    "Gesichtsschädel"
+  ],
+  [
+    "Zonulafasern",
+    "Fibrae zonulares",
+    "Gesichtsschädel"
+  ],
+  [
+    "Linse",
+    "Lens",
+    "Gesichtsschädel"
+  ],
+  [
+    "Ziliarkörper",
+    "Corpus ciliare",
+    "Gesichtsschädel"
+  ],
+  [
+    "Pupille",
+    "Pupilla",
+    "Gesichtsschädel"
+  ],
+  [
+    "Regenbogenhaut",
+    "Iris",
+    "Gesichtsschädel"
+  ],
+  [
+    "Schlemm-Kanal",
+    "Sinus venosus sclerae",
+    "Gesichtsschädel"
+  ]
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "direction": [
+      0,
+      1
+    ],
+    "questionBefore": "Übersetzen Sie",
+    "questionAfter": "in das Französische!"
+  },
+  {
+    "direction": [
+      1,
+      0
+    ],
+    "questionBefore": "Übersetzen Sie",
+    "questionAfter": "in das Deutsche!"
+  }
+]

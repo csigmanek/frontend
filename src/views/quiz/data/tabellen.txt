@@ -1,0 +1,73 @@
+************************************Quiz
+
+USE [HighScore]
+GO
+
+/****** Object:  Table [dbo].[quizquestions]    Script Date: 21.11.2018 20:47:35 ******/
+DROP TABLE [dbo].[quizquestions]
+GO
+
+/****** Object:  Table [dbo].[quizquestions]    Script Date: 21.11.2018 20:47:35 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[quizquestions](
+	[category] [varchar](50) NOT NULL,
+	[answers] [text] NOT NULL,
+	[panswers] [text] NOT NULL,
+	[ask] [text] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[category] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+
+**********************************HighScore
+
+
+
+USE [HighScore]
+GO
+
+EXEC sys.sp_dropextendedproperty @name=N'MS_Description' , @level0type=N'SCHEMA',@level0name=N'dbo', @level1type=N'TABLE',@level1name=N'quizhighscore'
+GO
+
+ALTER TABLE [dbo].[quizhighscore] DROP CONSTRAINT [DF_quizhighscore_date]
+GO
+
+/****** Object:  Table [dbo].[quizhighscore]    Script Date: 21.11.2018 20:48:12 ******/
+DROP TABLE [dbo].[quizhighscore]
+GO
+
+/****** Object:  Table [dbo].[quizhighscore]    Script Date: 21.11.2018 20:48:12 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[quizhighscore](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[category] [varchar](50) NOT NULL,
+	[user] [varchar](50) NOT NULL,
+	[difficulty] [smallint] NOT NULL,
+	[date] [datetime] NOT NULL,
+	[score] [numeric](18, 4) NOT NULL,
+ CONSTRAINT [PK_quizhighscore] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[quizhighscore] ADD  CONSTRAINT [DF_quizhighscore_date]  DEFAULT (getdate()) FOR [date]
+GO
+
+EXEC sys.sp_addextendedproperty @name=N'MS_Description', @value=N'Highscores für verschiedene Quiz' , @level0type=N'SCHEMA',@level0name=N'dbo', @level1type=N'TABLE',@level1name=N'quizhighscore'
+GO
+

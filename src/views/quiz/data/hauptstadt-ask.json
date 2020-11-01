@@ -1,0 +1,34 @@
+[
+  {
+    "direction": [
+      0,
+      1
+    ],
+    "questionBefore": "Ordnen Sie dem Land",
+    "questionAfter": "die Hauptstadt zu!"
+  },
+  {
+    "direction": [
+      0,
+      2
+    ],
+    "questionBefore": "Ordnen Sie das Land",
+    "questionAfter": "einer Region zu!"
+  },
+  {
+    "direction": [
+      1,
+      0
+    ],
+    "questionBefore": "Ordnen Sie der Hauptstadt",
+    "questionAfter": "dem Land zu!"
+  },
+  {
+    "direction": [
+      1,
+      2
+    ],
+    "questionBefore": "Ordnen die Hauptstadt",
+    "questionAfter": "einer Region zu!"
+  }
+]
