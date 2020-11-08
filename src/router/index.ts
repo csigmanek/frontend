@@ -8,6 +8,7 @@ import CursedWitch from '../views/features/CursedWitch.vue'
 // import Home from '../views/Home.vue'
 import Quiz from '../views/Quiz.vue'
 import SingleChoice from '../views/quiz/SingleChoice.vue'
+import StateMachine from '../views/StateMachine.vue'
 import Sudoku from '../views/Sudoku.vue'
 import TicTacToe from '../views/TicTacToe.vue'
 import UsefulLinks from '../views/UsefulLinks.vue'
@@ -21,6 +22,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/tic-tac-toe',
     name: 'TicTacToe',
     component: TicTacToe
+  },
+  {
+    path: '/state-machine',
+    name: 'StateMachine',
+    component: StateMachine
   },
   {
     path: '/sudoku',

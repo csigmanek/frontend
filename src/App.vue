@@ -2,6 +2,7 @@
   <div id="nav">
     <!-- <router-link to="/">Home</router-link> -->
     <router-link to="/tic-tac-toe">TicTacToe</router-link>
+    <router-link to="/state-machine">Automaten</router-link>
     <router-link to="/sudoku">Sudoku</router-link>
     <router-link to="/quiz">Quiz</router-link>
     <router-link to="/cursed-witch">Verfluchte Hexe</router-link>
